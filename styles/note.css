@@ -1,0 +1,47 @@
+
+@media screen and (max-width: 576px) {
+
+
+
+  #about .about-container{
+    padding: 20px;
+  }
+
+  
+
+  
+  .skill-box .skill-card{
+    max-width: 95%;
+    text-align: center;
+  }
+
+  #skills .skills-container .skill-box #about .about-container .about-info{
+    flex-direction: column;
+
+  }
+  
+.container {
+    width: 95%;
+   
+}
+
+.about-card{
+  gap: 20px;
+}
+
+  .container{
+    padding-top: 60px;
+  }
+
+#about,
+#skills,
+#resume {
+    padding-top: 60px;
+}
+
+  .section-heading h2{
+    font-size: 30px;
+  }
+
+}
+
